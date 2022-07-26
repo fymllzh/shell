@@ -1,15 +1,0 @@
-
-8
-hello.sh,e/7/e75b19584219342aa4d62a6e1ef5d3cf3a9dc49f
-;
-showname.sh,d/1/d1ad131155f3d9582800f18a5129f99b3f9d8b33
-7
-case.sh,9/7/9752a065565e6030f03d65938880c96f8e1ec8b9
-5
-if.sh,3/9/39ea72109d8b87f8d0decd9e6602de35eb05caf3
-7
-date.sh,d/d/dd1a2fc61ad9fd8d3d0577dea8965d0845511567
-;
-function.sh,2/8/28d78c9a3cac1faa23f9a27c2182e8f41d4eebb5
-8
-while.sh,6/5/65e1c1de6f4159edf9b5cb513bcfc5e279f7cc16
