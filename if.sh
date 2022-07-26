@@ -14,6 +14,9 @@
  elif [ "${1}" == "" ]
   then
  echo "You MUST input parameters, ex&gt; {${0} someword}"
+
+ elif [ ${1} == 1 ]; then
+     echo "输入的是 1"
 else
  echo "The only parameter is 'hello', ex&gt; {${0} hello}"
  fi
