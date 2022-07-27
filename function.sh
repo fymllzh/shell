@@ -18,7 +18,3 @@ function printit(){
  echo "Usage ${0} {one&#124;two&#124;three}"
  ;;
 esac
-
-
-
-
